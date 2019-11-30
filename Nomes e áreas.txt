@@ -1,0 +1,18 @@
+POLY ‘N SEEK
+JOGO PROP HUNT
+
+
+
+Bruno Gonçalves dos Santos Nery
+NickGit: targaryenbit
+Ra: 51821706 Programação e Roteirização
+Luiz Fernando Galucci 
+NickGit: LuizGalucci
+Ra: 51824194, Level Design, Modelador 3D
+Marcos Vinicius Vasques de Oliveira
+NickGit: mstitch
+Ra:51819355, Programação, Concept Art
+Jose Roberto Alves da Silva Junior
+NickGit: joseRoberto181
+Ra:51822663, Level Design
+
